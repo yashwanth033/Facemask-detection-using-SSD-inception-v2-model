@@ -1,2 +1,5 @@
 # Facemask-detection-using-SSD-inception-v2-model
-Training a model for mask detection using SSD inception v2 model on Google Collab notebook.
+1.Training a model for mask detection using SSD inception v2 model on Google Collab notebook.
+https://colab.research.google.com/drive/1pzRROw3yLStUXHLIUVm2B1F0djJY7kl2?usp=sharing
+
+2. Build a demo python application using the trained model.
