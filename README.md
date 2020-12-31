@@ -6,4 +6,4 @@ https://colab.research.google.com/drive/1pzRROw3yLStUXHLIUVm2B1F0djJY7kl2?usp=sh
 
 3. Create a python environment with python version 3.6.12
 
-4. Install give requirements and run the python file.
+4. Install given requirements and run the python file.
